@@ -47,6 +47,6 @@ To run this project locally, follow these steps:
    ```bash
    python main.py
    ```
-3. **View results**: Model performance metrics and predictions will be displayed.
+3. **View results**: Model performance metrics and predictions will be displayed
 
 
