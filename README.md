@@ -1,4 +1,5 @@
 ## Overview
+
 This project implements a **binary classification model** using various machine learning techniques. The objective is to classify data into one of two categories by leveraging data preprocessing, model training, evaluation, and predictions.
 
 ## Features
