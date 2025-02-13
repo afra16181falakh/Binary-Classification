@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
    ```
 
 ## Usage
-1. **Prepare the dataset**: Ensure the dataset is in the correct format (CSV, JSON, etc.).
+1. **Prepare the dataset**: Ensure the dataset is in the correct format (CSV, JSON, etc.)
 2. **Run the script**:
    ```bash
    python main.py
